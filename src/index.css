@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* .chat_message{
+    position: relative;
+    background-color: #d6f8c6 !important;
+    margin-left: auto;
+    width: fit-content;
+    padding: 1px;
+    border-radius: 5px;
+    font-size: 17px;
+    margin: 10px;
+    margin-bottom: 4px;
+
+}
+.chat_reciever{
+    position: relative;
+    background-color: white ;
+    width: fit-content;
+    padding: 1px;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-bottom: 4px;
+
+} */
+
+
+
+
+
+
+/* relative bg-[#d6f8c6] !important ml-auto w-fit p-1 rounded-lg text-lg mb-9 */
